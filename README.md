@@ -1,16 +1,8 @@
-# myapp
+# Actividad1
 
 A new Flutter project.
 
-## Getting Started
+## Pantalla 1
+![image](https://github.com/user-attachments/assets/6c3af9eb-fed1-4c2d-98a4-78bd1dd55400)
+![image](https://github.com/user-attachments/assets/e8f30bd7-6a10-41fb-b72e-04848d39a177)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
